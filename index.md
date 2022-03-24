@@ -12,13 +12,21 @@
 - bulk-RNA sequencing Analysis
 
 
-# Members : Choi Hwa Jin, Kim Jun Han, Lee Kyung Chun, Yoon Sung Min 
+# Members :
+Choi Hwa Jin
+Kim Jun Han
+Lee Kyung Chun
+Yoon Sung Min 
 
-# Publication :
+# Publication
+[Mapping systemic lupus erythematosus heterogeneity at the single-cell level](https://www.nature.com/articles/s41590-020-0743-0)
+[Erythroid mitochondrial retention triggers myeloid-dependent type I interferon in human SLE](https://pubmed.ncbi.nlm.nih.gov/34384544/#affiliation-4)
 
-## Contact : 02-2123-4630
+## Contact
+02-2123-4630
 
-### Location : Yonsei Univ. Science Park S423
+### Location
+Yonsei Univ. Science Research Center S423
 
 
 ```markdown
