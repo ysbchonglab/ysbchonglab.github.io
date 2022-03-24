@@ -20,7 +20,8 @@
 
 
 ```markdown
-'import scanpy as sc'
+import scanpy as sc
+
 **Bold** and _Italic_ and `Code` text
 
 
