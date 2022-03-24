@@ -19,8 +19,9 @@ Lee Kyung Chun
 Yoon Sung Min 
 
 # Publication
--[Mapping systemic lupus erythematosus heterogeneity at the single-cell level](https://www.nature.com/articles/s41590-020-0743-0)
--[Erythroid mitochondrial retention triggers myeloid-dependent type I interferon in human SLE](https://pubmed.ncbi.nlm.nih.gov/34384544/#affiliation-4)
+[Nature Communications paper](https://www.nature.com/articles/s41590-020-0743-0)
+
+[Cell paper](https://pubmed.ncbi.nlm.nih.gov/34384544/#affiliation-4)
 
 ## Contact
 02-2123-4630
