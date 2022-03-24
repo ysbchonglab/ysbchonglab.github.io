@@ -12,10 +12,10 @@
 
 
 # Members :
-Choi Hwa Jin
-Kim Jun Han
-Lee Kyung Chun
-Yoon Sung Min 
+- Choi Hwa Jin
+- Kim Jun Han
+- Lee Kyung Chun
+- Yoon Sung Min 
 
 # Publication
 [Nature Communications paper](https://www.nature.com/articles/s41590-020-0743-0)
