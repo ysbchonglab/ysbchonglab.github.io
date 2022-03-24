@@ -9,7 +9,11 @@
 # Research
 - Single-cell RNA sequencing Analysis
 - bulk-RNA sequencing Analysis
-
+## Research Topics
+- Lung Cancer 
+- Psoriasis
+- Atopic Dermatitis
+- OsteoArthritis
 
 # Members 
 - Choi Hwa Jin
