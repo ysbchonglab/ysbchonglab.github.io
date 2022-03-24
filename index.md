@@ -10,13 +10,15 @@
 # Research
 - Single-cell RNA sequencing Analysis
 - bulk-RNA sequencing Analysis
-# Member : 
+
+
+# Members : Choi Hwa Jin, Kim Jun Han, Lee Kyung Chun, Yoon Sung Min 
 
 # Publication :
 
-### Contact :
+## Contact : 02-2123-4630
 
-### Location :
+### Location : Yonsei Univ. Science Park S423
 
 
 ```markdown
