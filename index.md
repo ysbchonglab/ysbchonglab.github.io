@@ -20,7 +20,7 @@
 # Publication
 [Nature Communications paper](https://www.nature.com/articles/s41590-020-0743-0)
 
-[Cell paper](https://pubmed.ncbi.nlm.nih.gov/34384544/#affiliation-4)
+[Cell paper](https://pubmed.ncbi.nlm.nih.gov/34384544/)
 
 ## Contact
 02-2123-4630
