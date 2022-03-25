@@ -2,6 +2,7 @@
 ![Logos](https://user-images.githubusercontent.com/60769265/159907203-9dc60069-2c97-442d-af9e-74fef74c0aa4.jpeg)
 
 ## Professor Seung Hee Hong
+- E-Mail: seungheehong@yonsei.ac.kr
 
 # Research
 - Single-cell RNA sequencing Analysis
