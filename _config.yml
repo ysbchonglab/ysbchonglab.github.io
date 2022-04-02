@@ -22,7 +22,7 @@ title: Immuno-Informatics Lab
 email: lkc719@yonsei.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to our lab website! editor: LKC
-baseurl: "/ysbchonglab.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ysbchonglab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ysbchonglab
 
