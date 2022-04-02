@@ -30,14 +30,6 @@ Reference:Construction of a human cell landscape at single-cell level
 - Lee kyungchun
 - Yoon sungmin 
 
-# Publication
-[Nature Communications paper 2020](https://www.nature.com/articles/s41590-020-0743-0)
-
-[Cell paper 2021](https://pubmed.ncbi.nlm.nih.gov/34384544/)
-
-[Cell paper 2016](https://pubmed.ncbi.nlm.nih.gov/27040498/)
-
-
 ### Contact
 02-2123-4630
 
