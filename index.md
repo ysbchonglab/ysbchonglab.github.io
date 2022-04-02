@@ -12,8 +12,6 @@
 
 # Research
 - Single-cell RNA sequencing Analysis
-![Workflow](https://user-images.githubusercontent.com/60769265/160862597-80637774-2140-4ecb-b481-8e02013cac07.png)
-Reference:Construction of a human cell landscape at single-cell level
 
 ![Single-cell RNA sequecing of SLE](https://user-images.githubusercontent.com/60769265/160511763-7836ac95-5d3d-49d8-ad31-4f0e6a4c672d.png)
 
