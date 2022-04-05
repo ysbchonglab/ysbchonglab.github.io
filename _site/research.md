@@ -1,6 +1,5 @@
 # Research
 
-- Bulk-RNA sequencing
+Transcriptomics
 
-- Single-cell RNA sequencing
-
+Difference between Microarray vs RNA- sequencing
