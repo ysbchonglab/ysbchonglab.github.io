@@ -1,7 +1,6 @@
 # Research
 
 Transcriptomics
-<<<<<<< HEAD
 
 Difference between Microarray vs RNA- sequencing
 =======
