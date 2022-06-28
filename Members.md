@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: "page"
 Title: Members
+permalink: "/Members/"
 ---
 
 - CHJ

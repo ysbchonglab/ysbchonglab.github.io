@@ -1,10 +1,6 @@
 # Research
 
 Transcriptomics
-<<<<<<< HEAD
-
-Difference between Microarray vs RNA- sequencing
-=======
 
 Difference between Microarray vs RNA-sequencing
 
@@ -14,4 +10,3 @@ Difference between Microarray vs RNA-sequencing
 Single cell RNA-seq vs Bulk-RNA seq
 Tree vs Forest
 <img width="960" alt="스크린샷 2022-04-02 오후 10 07 10" src="https://user-images.githubusercontent.com/60769265/161384718-473201d3-ff4c-4d4a-8d2e-f2dd685bd99c.png">
->>>>>>> e4a8a63bbbde458757e68fc4af3ce8dffb1482e4
