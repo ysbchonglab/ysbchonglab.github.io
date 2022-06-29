@@ -1,16 +1,16 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
+About:
+  name: About
+  description: 
+  cover: 
+Members:
+  name: Members
   description: False
   cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
+Research:
+  name: Research
+  description: 
+  cover: 
+Publication:
+  name: Publication
   description: False
   cover: False
