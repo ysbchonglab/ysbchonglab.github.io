@@ -1,6 +1,12 @@
 # Research
 
 Transcriptomics
+<<<<<<< HEAD
+=======
+
+Difference between Microarray vs RNA- sequencing
+=======
+>>>>>>> 81db6177fdba6b8210bfd6902aa88f6d6cd5dc90
 
 Difference between Microarray vs RNA-sequencing
 
