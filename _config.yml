@@ -63,7 +63,7 @@ favicon: assets/built/images/favicon.jpg
 production_url: https://ysbchonglab.github.io/
 # 최종적으로 blog가 운영될 url
 
-source_url: https://github.com/ysbchonglab/GitHubPageMaker/
+source_url: https://github.com/ysbchonglab/ysbchonglab.github.io
 # blogmaker(jekyll source folder)에 대한 github repository
 
 # Social info
@@ -83,14 +83,14 @@ facebook:
 
 # Disqus
 disqus: True
-disqus_shortname: xxxxxxxx
+#disqus_shortname: xxxxxxxx
 # disqus는 온라인 댓글 시스템. 댓글 기능을 사용하기 위해
 # disqus를 이용할 것인지 여부와 만약 사용하면
 # disqus shortname을 입력 ( disqus username이 아님 )
 
 
 # Google Analytics
-google_analytics: UA-xxxxxxxx-x # replace with your GA tracking identifier
+#google_analytics: UA-xxxxxxxx-x # replace with your GA tracking identifier
 # Google Analytics을 사용할 경우 GA tracking identifier를 입력
 
 # Permalinks
